@@ -1,6 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-TOKEN = '9d348431b5416ca2be57fac381f6f278c7fb2bda9359254cd813765312e1592a61323eaaefc5a9de819bd'
+import os
+TOKEN = os
 GROUP_ID = 195451977
 ADMIN_IDS = [259932574]
 MIN_PRICE = 300
