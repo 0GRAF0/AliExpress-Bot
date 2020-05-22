@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 import os
-TOKEN = os
+TOKEN = str(os.environ.get('TOKEN'))
 GROUP_ID = 195451977
 ADMIN_IDS = [259932574]
 MIN_PRICE = 300
